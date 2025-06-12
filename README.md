@@ -14,4 +14,8 @@ The analysis compares the differences in the Gross salaries across these four gr
 
 Additionally, the analysis further highlights that in the entire Tech Roles, the female workforce earns higher Gross Salary compared to their male counterparts. 
 
+![image](https://github.com/user-attachments/assets/f0776493-2d3c-4129-9b56-14fa03c39698)
+
+
+
 Regardless of the available datasets analyzed, this analysis is limited based on the frequency of the roles within the data science and data engineers available in the country and will aim to further improve on the comparison frequency within these associated roles. 

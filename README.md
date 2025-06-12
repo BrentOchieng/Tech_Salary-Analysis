@@ -7,6 +7,8 @@ It specifically focuses on three major roles within the Data Sphere namely Data 
 
 The analysis compares the differences in the Gross salaries across these four groups and finds that the 'Others' category of Tech Roles earns signifiantly more than the Data analysts, data scientists. and data engineers. 
 
+![image](https://github.com/user-attachments/assets/9fdbc851-e8ed-40b4-a7f4-92d907020a26)
+
 
 
 

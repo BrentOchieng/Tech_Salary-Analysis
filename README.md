@@ -1,4 +1,4 @@
-ANALYSIS OF GROSS SALARIES WITHIN SELECTED TECH ROLES IN THE KENYAN MARKET.
+**ANALYSIS OF GROSS SALARIES WITHIN SELECTED TECH ROLES IN THE KENYAN MARKET.**
 
 This analysis highlights the differences in the gross salaries cuting across the different tech roles in the kenyan job market. 
 
